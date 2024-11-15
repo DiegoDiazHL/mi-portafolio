@@ -12,3 +12,7 @@ p{
     font-style: sans-serif;
     font-size: 14px;
 }
+ul {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
