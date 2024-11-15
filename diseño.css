@@ -1,0 +1,14 @@
+body{
+background-color: darkslateblue;
+font-style:Arial;
+
+}
+h1{
+    color: hotpink;
+    font-size: 24px;
+}
+p{
+    margin: 10px;
+    font-style: sans-serif;
+    font-size: 14px;
+}
